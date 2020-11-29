@@ -17,7 +17,6 @@ Thank you for your contribution.
 
 
 <b>Upcoming Meetings</b><br>
+To sign up for upcoming meetings and see past meetings, please visit our meetup page!<br>
+https://www.meetup.com/OWASP-Marquette-Chapter
 
-Sponsored by the Upper Peninsula Cybersecurity Institute
-A webinar/meeting focusing on people working on the front lines of information security.  How the panelists achieved their current job title and what they see as trending and important in the current information security landscape.
-More information to come soon!
